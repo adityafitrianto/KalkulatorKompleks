@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kalkulator Kompleks</string>
+
+    <string name="Imajiner">Imajiner</string>
+    <string name="action_settings">Settings</string>
+    <string name="tambah">+</string>
+    <string name="hasil">=</string>
+    <string name="Real">Real</string>
+</resources>
